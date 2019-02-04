@@ -1,0 +1,8 @@
+private/
+bin/
+.vscode/
+vendor/
+node_modules/
+
+/target
+**/*.rs.bk
