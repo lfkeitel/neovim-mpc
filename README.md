@@ -2,10 +2,15 @@
 
 ## Installation
 
-Use your preferred plugin manager. For example, `vim-plug`:
+### [vim-plug](https://github.com/junegunn/vim-plug)
+
+Add to your plugin block:
+
 ```vim
 Plug 'lfkeitel/neovim-mpc', { 'do': 'bash install.sh' }
 ```
+
+Then run `:PlugInstall`.
 
 ## Usage
 
